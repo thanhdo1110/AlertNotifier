@@ -4,7 +4,7 @@
 
 ## Preview
 
-**[DEMO]**
+**[[DEMO]](https://youtu.be/_gfx22AWN7k)**
 :-------------------------:
 ![image](https://github.com/user-attachments/assets/0e56c338-f39d-4146-b52b-c51ab73e66ee)
 
